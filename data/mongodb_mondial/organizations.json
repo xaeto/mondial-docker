@@ -1,0 +1,1319 @@
+[{
+  "_id": "ABEDA",
+  "name": "Arab Bank for Economic Development in Africa",
+  "city_id": "8fafaf",
+  "established": {
+    "$date": {
+      "$numberLong": "130377600000"
+    }
+  }
+},{
+  "_id": "ACC",
+  "name": "Arab Cooperation Council",
+  "established": {
+    "$date": {
+      "$numberLong": "603590400000"
+    }
+  }
+},{
+  "_id": "ACCT",
+  "name": "Agency for Cultural and Technical Cooperation",
+  "city_id": "912ab6",
+  "established": {
+    "$date": {
+      "$numberLong": "6825600000"
+    }
+  }
+},{
+  "_id": "ACP",
+  "name": "African, Caribbean, and Pacific Countries",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "197164800000"
+    }
+  }
+},{
+  "_id": "AfDB",
+  "name": "African Development Bank",
+  "city_id": "8c61a5",
+  "established": {
+    "$date": {
+      "$numberLong": "-202348800000"
+    }
+  }
+},{
+  "_id": "AFESD",
+  "name": "Arab Fund for Economic and Social Development",
+  "established": {
+    "$date": {
+      "$numberLong": "-51408000000"
+    }
+  }
+},{
+  "_id": "AG",
+  "name": "Andean Group",
+  "city_id": "900de9",
+  "established": {
+    "$date": {
+      "$numberLong": "-19008000000"
+    }
+  }
+},{
+  "_id": "AL",
+  "name": "Arab League",
+  "city_id": "8d2213",
+  "established": {
+    "$date": {
+      "$numberLong": "-782006400000"
+    }
+  }
+},{
+  "_id": "AMF",
+  "name": "Arab Monetary Fund",
+  "city_id": "8c6239",
+  "established": {
+    "$date": {
+      "$numberLong": "199411200000"
+    }
+  }
+},{
+  "_id": "AMU",
+  "name": "Arab Maghreb Union",
+  "city_id": "91b858",
+  "established": {
+    "$date": {
+      "$numberLong": "603676800000"
+    }
+  }
+},{
+  "_id": "ANC",
+  "name": "North Atlantic Cooperation Council",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "689558400000"
+    }
+  }
+},{
+  "_id": "ANZUS",
+  "name": "Australia-New Zealand-United States Security Treaty",
+  "city_id": "8d272a",
+  "established": {
+    "$date": {
+      "$numberLong": "-578620800000"
+    }
+  }
+},{
+  "_id": "APEC",
+  "name": "Asia Pacific Economic Cooperation",
+  "city_id": "924737",
+  "established": {
+    "$date": {
+      "$numberLong": "626400000000"
+    }
+  }
+},{
+  "_id": "AsDB",
+  "name": "Asian Development Bank",
+  "city_id": "907a6b",
+  "established": {
+    "$date": {
+      "$numberLong": "-95817600000"
+    }
+  }
+},{
+  "_id": "ASEAN",
+  "name": "Association of Southeast Asian Nations",
+  "city_id": "8f518b",
+  "established": {
+    "$date": {
+      "$numberLong": "-75686400000"
+    }
+  }
+},{
+  "_id": "BCIE",
+  "name": "Central American Bank for Economic Integration",
+  "city_id": "929a89",
+  "established": {
+    "$date": {
+      "$numberLong": "-285638400000"
+    }
+  }
+},{
+  "_id": "BDEAC",
+  "name": "Central African States Development Bank",
+  "city_id": "8d122b",
+  "established": {
+    "$date": {
+      "$numberLong": "186796800000"
+    }
+  }
+},{
+  "_id": "Benelux",
+  "name": "Benelux Economic Union",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "-375840000000"
+    }
+  }
+},{
+  "_id": "BIS",
+  "name": "Bank for International Settlements",
+  "city_id": "8c9448",
+  "established": {
+    "$date": {
+      "$numberLong": "-1260662400000"
+    }
+  }
+},{
+  "_id": "BSEC",
+  "name": "Black Sea Economic Cooperation Zone",
+  "established": {
+    "$date": {
+      "$numberLong": "709430400000"
+    }
+  }
+},{
+  "_id": "C",
+  "name": "Commonwealth",
+  "city_id": "9016a8",
+  "established": {
+    "$date": {
+      "$numberLong": "-1199318400000"
+    }
+  }
+},{
+  "_id": "CACM",
+  "name": "Central American Common Market",
+  "city_id": "8ebe7d",
+  "established": {
+    "$date": {
+      "$numberLong": "-285638400000"
+    }
+  }
+},{
+  "_id": "CAEU",
+  "name": "Council of Arab Economic Unity",
+  "city_id": "8c7174",
+  "established": {
+    "$date": {
+      "$numberLong": "-397008000000"
+    }
+  }
+},{
+  "_id": "Caricom",
+  "name": "Caribbean Community and Common Market",
+  "city_id": "8eb0d0",
+  "established": {
+    "$date": {
+      "$numberLong": "110592000000"
+    }
+  }
+},{
+  "_id": "CBSS",
+  "name": "Council of the Baltic Sea States",
+  "established": {
+    "$date": {
+      "$numberLong": "699753600000"
+    }
+  }
+},{
+  "_id": "CCC",
+  "name": "Customs Cooperation Council",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "-601084800000"
+    }
+  }
+},{
+  "_id": "CDB",
+  "name": "Caribbean Development Bank",
+  "established": {
+    "$date": {
+      "$numberLong": "-6480000000"
+    }
+  }
+},{
+  "_id": "CE",
+  "name": "Council of Europe",
+  "city_id": "928390",
+  "established": {
+    "$date": {
+      "$numberLong": "-651974400000"
+    }
+  }
+},{
+  "_id": "CEEAC",
+  "name": "Economic Community of Central African States",
+  "city_id": "900a6a",
+  "established": {
+    "$date": {
+      "$numberLong": "435283200000"
+    }
+  }
+},{
+  "_id": "CEI",
+  "name": "Central European Initiative",
+  "city_id": "8d18c2",
+  "established": {
+    "$date": {
+      "$numberLong": "680572800000"
+    }
+  }
+},{
+  "_id": "CEPGL",
+  "name": "Economic Community of the Great Lakes Countries",
+  "established": {
+    "$date": {
+      "$numberLong": "212544000000"
+    }
+  }
+},{
+  "_id": "CERN",
+  "name": "European Organization for Nuclear Research",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-520819200000"
+    }
+  }
+},{
+  "_id": "CIS",
+  "name": "Commonwealth of Independent States",
+  "city_id": "9095f4",
+  "established": {
+    "$date": {
+      "$numberLong": "692150400000"
+    }
+  }
+},{
+  "_id": "CP",
+  "name": "Colombo Plan",
+  "city_id": "8d51a3",
+  "established": {
+    "$date": {
+      "$numberLong": "-583977600000"
+    }
+  }
+},{
+  "_id": "EADB",
+  "name": "East African Development Bank",
+  "city_id": "8f6709",
+  "established": {
+    "$date": {
+      "$numberLong": "-81216000000"
+    }
+  }
+},{
+  "_id": "EBRD",
+  "name": "European Bank for Reconstruction and Development",
+  "city_id": "9016a8",
+  "established": {
+    "$date": {
+      "$numberLong": "671673600000"
+    }
+  }
+},{
+  "_id": "ECA",
+  "name": "Economic Commission for Africa",
+  "city_id": "8c64b4",
+  "established": {
+    "$date": {
+      "$numberLong": "-368496000000"
+    }
+  }
+},{
+  "_id": "ECE",
+  "name": "Economic Commission for Europe",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-718416000000"
+    }
+  }
+},{
+  "_id": "ECLAC",
+  "name": "Economic Commission for Latin America and the Caribbean",
+  "city_id": "92288e",
+  "established": {
+    "$date": {
+      "$numberLong": "-689558400000"
+    }
+  }
+},{
+  "_id": "ECO",
+  "name": "Economic Cooperation Organization",
+  "city_id": "929ad6",
+  "established": {
+    "$date": {
+      "$numberLong": "473385600000"
+    }
+  }
+},{
+  "_id": "ECOWAS",
+  "name": "Economic Community of West African States",
+  "city_id": "8ffc6f",
+  "established": {
+    "$date": {
+      "$numberLong": "170467200000"
+    }
+  }
+},{
+  "_id": "EFTA",
+  "name": "European Free Trade Association",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-315360000000"
+    }
+  }
+},{
+  "_id": "EIB",
+  "name": "European Investment Bank",
+  "city_id": "90299c",
+  "established": {
+    "$date": {
+      "$numberLong": "-403056000000"
+    }
+  }
+},{
+  "_id": "EN",
+  "name": "Nuclear Energy Agency",
+  "established": {
+    "$date": {
+      "$numberLong": "-378691200000"
+    }
+  }
+},{
+  "_id": "Entente",
+  "name": "Council of the Entente",
+  "city_id": "8c61a5",
+  "established": {
+    "$date": {
+      "$numberLong": "-334368000000"
+    }
+  }
+},{
+  "_id": "ESA",
+  "name": "European Space Agency",
+  "city_id": "912ab6",
+  "established": {
+    "$date": {
+      "$numberLong": "112924800000"
+    }
+  }
+},{
+  "_id": "ESCAP",
+  "name": "Economic and Social Commission for Asia and the Pacific",
+  "city_id": "8c8def",
+  "established": {
+    "$date": {
+      "$numberLong": "-718416000000"
+    }
+  }
+},{
+  "_id": "ESCWA",
+  "name": "Economic and Social Commission for Western Asia",
+  "city_id": "8c7174",
+  "established": {
+    "$date": {
+      "$numberLong": "113702400000"
+    }
+  }
+},{
+  "_id": "EU",
+  "name": "European Union",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "697420800000"
+    }
+  }
+},{
+  "_id": "FAO",
+  "name": "Food and Agriculture Organization",
+  "city_id": "91c812",
+  "established": {
+    "$date": {
+      "$numberLong": "-764035200000"
+    }
+  }
+},{
+  "_id": "FZ",
+  "name": "Franc Zone",
+  "city_id": "912ab6",
+  "established": {
+    "$date": {
+      "$numberLong": "-758419200000"
+    }
+  }
+},{
+  "_id": "G-10",
+  "name": "Group of 10",
+  "city_id": "912ab6",
+  "established": {
+    "$date": {
+      "$numberLong": "-228873600000"
+    }
+  }
+},{
+  "_id": "G-11",
+  "name": "Group of 11",
+  "established": {
+    "$date": {
+      "$numberLong": "456710400000"
+    }
+  }
+},{
+  "_id": "G-15",
+  "name": "Group of 15",
+  "city_id": "8eb004"
+},{
+  "_id": "G-19",
+  "name": "Group of 19",
+  "established": {
+    "$date": {
+      "$numberLong": "181353600000"
+    }
+  }
+},{
+  "_id": "G-2",
+  "name": "Group of 2"
+},{
+  "_id": "G-24",
+  "name": "Group of 24",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "63072000000"
+    }
+  }
+},{
+  "_id": "G-3",
+  "name": "Group of 3",
+  "established": {
+    "$date": {
+      "$numberLong": "654739200000"
+    }
+  }
+},{
+  "_id": "G-5",
+  "name": "Group of 5",
+  "established": {
+    "$date": {
+      "$numberLong": "496195200000"
+    }
+  }
+},{
+  "_id": "G-6",
+  "name": "Group of 6",
+  "established": {
+    "$date": {
+      "$numberLong": "454032000000"
+    }
+  }
+},{
+  "_id": "G-7",
+  "name": "Group of 7",
+  "established": {
+    "$date": {
+      "$numberLong": "496195200000"
+    }
+  }
+},{
+  "_id": "G-77",
+  "name": "Group of 77",
+  "established": {
+    "$date": {
+      "$numberLong": "-71107200000"
+    }
+  }
+},{
+  "_id": "G-8",
+  "name": "Group of 8",
+  "established": {
+    "$date": {
+      "$numberLong": "181353600000"
+    }
+  }
+},{
+  "_id": "G-9",
+  "name": "Group of 9"
+},{
+  "_id": "GCC",
+  "name": "Gulf Cooperation Council",
+  "city_id": "91c5cb",
+  "established": {
+    "$date": {
+      "$numberLong": "359596800000"
+    }
+  }
+},{
+  "_id": "IADB",
+  "name": "Inter-American Development Bank",
+  "city_id": "93212d",
+  "established": {
+    "$date": {
+      "$numberLong": "-338774400000"
+    }
+  }
+},{
+  "_id": "IAEA",
+  "name": "International Atomic Energy Agency",
+  "city_id": "92ebd7",
+  "established": {
+    "$date": {
+      "$numberLong": "-416016000000"
+    }
+  }
+},{
+  "_id": "IBRD",
+  "name": "International Bank for Reconstruction and Development",
+  "city_id": "93212d",
+  "established": {
+    "$date": {
+      "$numberLong": "-803001600000"
+    }
+  }
+},{
+  "_id": "ICAO",
+  "name": "International Civil Aviation Organization",
+  "city_id": "909f3c",
+  "established": {
+    "$date": {
+      "$numberLong": "-791078400000"
+    }
+  }
+},{
+  "_id": "ICC",
+  "name": "International Chamber of Commerce",
+  "city_id": "912ab6",
+  "established": {
+    "$date": {
+      "$numberLong": "-1609459200000"
+    }
+  }
+},{
+  "_id": "ICFTU",
+  "name": "International Confederation of Free Trade Unions",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "-633830400000"
+    }
+  }
+},{
+  "_id": "ICRM",
+  "name": "International Red Cross and Red Crescent Movement",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-1325462400000"
+    }
+  }
+},{
+  "_id": "IDA",
+  "name": "International Development Association",
+  "city_id": "93212d",
+  "established": {
+    "$date": {
+      "$numberLong": "-313459200000"
+    }
+  }
+},{
+  "_id": "IDB",
+  "name": "Islamic Development Bank",
+  "city_id": "8f5410",
+  "established": {
+    "$date": {
+      "$numberLong": "124761600000"
+    }
+  }
+},{
+  "_id": "IEA",
+  "name": "International Energy Agency",
+  "city_id": "912ab6",
+  "established": {
+    "$date": {
+      "$numberLong": "153705600000"
+    }
+  }
+},{
+  "_id": "IFAD",
+  "name": "International Fund for Agricultural Development",
+  "city_id": "91c812",
+  "established": {
+    "$date": {
+      "$numberLong": "152496000000"
+    }
+  }
+},{
+  "_id": "IFC",
+  "name": "International Finance Corporation",
+  "city_id": "93212d",
+  "established": {
+    "$date": {
+      "$numberLong": "-460944000000"
+    }
+  }
+},{
+  "_id": "IFRCS",
+  "name": "International Federation of Red Cross and Red Crescent Societies",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-1598745600000"
+    }
+  }
+},{
+  "_id": "IGADD",
+  "name": "Inter-Governmental Authority on Drought and Development",
+  "city_id": "8db1db",
+  "established": {
+    "$date": {
+      "$numberLong": "506131200000"
+    }
+  }
+},{
+  "_id": "ILO",
+  "name": "International Labor Organization",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-1600819200000"
+    }
+  }
+},{
+  "_id": "IMF",
+  "name": "International Monetary Fund",
+  "city_id": "93212d",
+  "established": {
+    "$date": {
+      "$numberLong": "-803001600000"
+    }
+  }
+},{
+  "_id": "IMO",
+  "name": "International Maritime Organization",
+  "city_id": "9016a8",
+  "established": {
+    "$date": {
+      "$numberLong": "-372211200000"
+    }
+  }
+},{
+  "_id": "Inmarsat",
+  "name": "International Mobile Satellite Organization",
+  "city_id": "9016a8",
+  "established": {
+    "$date": {
+      "$numberLong": "210556800000"
+    }
+  }
+},{
+  "_id": "Intelsat",
+  "name": "International Telecommunications Satellite Organization",
+  "city_id": "93212d",
+  "established": {
+    "$date": {
+      "$numberLong": "51494400000"
+    }
+  }
+},{
+  "_id": "Interpol",
+  "name": "International Criminal Police Organization",
+  "city_id": "902cb7",
+  "established": {
+    "$date": {
+      "$numberLong": "-427680000000"
+    }
+  }
+},{
+  "_id": "IOC",
+  "name": "International Olympic Committee",
+  "city_id": "900167",
+  "established": {
+    "$date": {
+      "$numberLong": "-2383344000000"
+    }
+  }
+},{
+  "_id": "IOM",
+  "name": "International Organization for Migration",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-570412800000"
+    }
+  }
+},{
+  "_id": "ISO",
+  "name": "International Organization for Standardization",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-723168000000"
+    }
+  }
+},{
+  "_id": "ITU",
+  "name": "International Telecommunication Union",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-1169596800000"
+    }
+  }
+},{
+  "_id": "LAES",
+  "name": "Latin American Economic System",
+  "city_id": "8d28c3",
+  "established": {
+    "$date": {
+      "$numberLong": "182736000000"
+    }
+  }
+},{
+  "_id": "LAIA",
+  "name": "Latin American Integration Association",
+  "city_id": "909da5",
+  "established": {
+    "$date": {
+      "$numberLong": "334886400000"
+    }
+  }
+},{
+  "_id": "Mekong Group",
+  "name": "ASEAN-Mekong Basin Development Group",
+  "established": {
+    "$date": {
+      "$numberLong": "817776000000"
+    }
+  }
+},{
+  "_id": "Mercosur",
+  "name": "Southern Cone Common Market",
+  "city_id": "8d195c",
+  "established": {
+    "$date": {
+      "$numberLong": "669945600000"
+    }
+  }
+},{
+  "_id": "MINURSO",
+  "name": "United Nations Mission for the Referendum in Western Sahara",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "672883200000"
+    }
+  }
+},{
+  "_id": "MTCR",
+  "name": "Missile Technology Control Regime",
+  "established": {
+    "$date": {
+      "$numberLong": "545529600000"
+    }
+  }
+},{
+  "_id": "NAM",
+  "name": "Nonaligned Movement",
+  "city_id": "8f518b",
+  "established": {
+    "$date": {
+      "$numberLong": "-263001600000"
+    }
+  }
+},{
+  "_id": "NATO",
+  "name": "North Atlantic Treaty Organization",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "-640310400000"
+    }
+  }
+},{
+  "_id": "NC",
+  "name": "Nordic Council",
+  "city_id": "928205",
+  "established": {
+    "$date": {
+      "$numberLong": "-561600000000"
+    }
+  }
+},{
+  "_id": "NIB",
+  "name": "Nordic Investment Bank",
+  "city_id": "8ecce7",
+  "established": {
+    "$date": {
+      "$numberLong": "186883200000"
+    }
+  }
+},{
+  "_id": "NSG",
+  "name": "Nuclear Suppliers Group",
+  "city_id": "92ebd7"
+},{
+  "_id": "OAPEC",
+  "name": "Organization of Arab Petroleum Exporting Countries",
+  "established": {
+    "$date": {
+      "$numberLong": "-62467200000"
+    }
+  }
+},{
+  "_id": "OAS",
+  "name": "Organization of American States",
+  "city_id": "93212d",
+  "established": {
+    "$date": {
+      "$numberLong": "-683942400000"
+    }
+  }
+},{
+  "_id": "OAU",
+  "name": "Organization of African Unity",
+  "city_id": "8c64b4",
+  "established": {
+    "$date": {
+      "$numberLong": "-208483200000"
+    }
+  }
+},{
+  "_id": "OECD",
+  "name": "Organization for Economic Cooperation and Development",
+  "city_id": "912ab6",
+  "established": {
+    "$date": {
+      "$numberLong": "-285552000000"
+    }
+  }
+},{
+  "_id": "OECS",
+  "name": "Organization of Eastern Caribbean States",
+  "city_id": "8d2ee9",
+  "established": {
+    "$date": {
+      "$numberLong": "361670400000"
+    }
+  }
+},{
+  "_id": "OIC",
+  "name": "Organization of the Islamic Conference",
+  "city_id": "8f5410",
+  "established": {
+    "$date": {
+      "$numberLong": "-8726400000"
+    }
+  }
+},{
+  "_id": "OPANAL",
+  "name": "Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean",
+  "city_id": "9091f4",
+  "established": {
+    "$date": {
+      "$numberLong": "-90892800000"
+    }
+  }
+},{
+  "_id": "OPEC",
+  "name": "Organization of Petroleum Exporting Countries",
+  "city_id": "92ebd7",
+  "established": {
+    "$date": {
+      "$numberLong": "-293414400000"
+    }
+  }
+},{
+  "_id": "OSCE",
+  "name": "Organization for Security and Cooperation in Europe",
+  "city_id": "92ebd7",
+  "established": {
+    "$date": {
+      "$numberLong": "788918400000"
+    }
+  }
+},{
+  "_id": "PCA",
+  "name": "Permanent Court of Arbitration",
+  "established": {
+    "$date": {
+      "$numberLong": "-2222467200000"
+    }
+  }
+},{
+  "_id": "PFP",
+  "name": "Partnership for Peace",
+  "established": {
+    "$date": {
+      "$numberLong": "758160000000"
+    }
+  }
+},{
+  "_id": "RG",
+  "name": "Rio Group",
+  "established": {
+    "$date": {
+      "$numberLong": "567993600000"
+    }
+  }
+},{
+  "_id": "SAARC",
+  "name": "South Asian Association for Regional Cooperation",
+  "city_id": "8fab5c",
+  "established": {
+    "$date": {
+      "$numberLong": "502848000000"
+    }
+  }
+},{
+  "_id": "SACU",
+  "name": "Southern African Customs Union",
+  "city_id": "91ac55",
+  "established": {
+    "$date": {
+      "$numberLong": "-1814400000"
+    }
+  }
+},{
+  "_id": "SADC",
+  "name": "Southern African Development Community",
+  "city_id": "8ea91d",
+  "established": {
+    "$date": {
+      "$numberLong": "714009600000"
+    }
+  }
+},{
+  "_id": "Sparteca",
+  "name": "South Pacific Regional Trade and Economic Cooperation Agreement",
+  "established": {
+    "$date": {
+      "$numberLong": "347155200000"
+    }
+  }
+},{
+  "_id": "SPC",
+  "name": "South Pacific Commission",
+  "city_id": "9108ff",
+  "established": {
+    "$date": {
+      "$numberLong": "-722736000000"
+    }
+  }
+},{
+  "_id": "SPF",
+  "name": "South Pacific Forum",
+  "city_id": "9289ed",
+  "established": {
+    "$date": {
+      "$numberLong": "50198400000"
+    }
+  }
+},{
+  "_id": "UDEAC",
+  "name": "Central African Customs and Economic Union",
+  "city_id": "8c8e2b",
+  "established": {
+    "$date": {
+      "$numberLong": "-159840000000"
+    }
+  }
+},{
+  "_id": "UN",
+  "name": "United Nations",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "-773712000000"
+    }
+  }
+},{
+  "_id": "UNAMIR",
+  "name": "United Nations Assistance Mission for Rwanda",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "749779200000"
+    }
+  }
+},{
+  "_id": "UNAVEM III",
+  "name": "United Nations Angola Verification Mission",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "598579200000"
+    }
+  }
+},{
+  "_id": "UNCRO",
+  "name": "United Nations Confidence Restoration Operation in Croatia",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "796608000000"
+    }
+  }
+},{
+  "_id": "UNCTAD",
+  "name": "United Nations Conference on Trade and Development",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-157939200000"
+    }
+  }
+},{
+  "_id": "UNDOF",
+  "name": "United Nations Disengagement Observer Force",
+  "city_id": "8d9d0b",
+  "established": {
+    "$date": {
+      "$numberLong": "139190400000"
+    }
+  }
+},{
+  "_id": "UNESCO",
+  "name": "United Nations Educational, Scientific, and Cultural Organization",
+  "city_id": "912ab6",
+  "established": {
+    "$date": {
+      "$numberLong": "-761356800000"
+    }
+  }
+},{
+  "_id": "UNFICYP",
+  "name": "United Nations Force in Cyprus",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "-183945600000"
+    }
+  }
+},{
+  "_id": "UNHCR",
+  "name": "United Nations Office of the High Commissioner for Refugees",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-633657600000"
+    }
+  }
+},{
+  "_id": "UNIDO",
+  "name": "United Nations Industrial Development Organization",
+  "city_id": "92ebd7",
+  "established": {
+    "$date": {
+      "$numberLong": "-98582400000"
+    }
+  }
+},{
+  "_id": "UNIFIL",
+  "name": "United Nations Interim Force in Lebanon",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "259113600000"
+    }
+  }
+},{
+  "_id": "UNIKOM",
+  "name": "United Nations Iraq-Kuwait Observation Mission",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "671155200000"
+    }
+  }
+},{
+  "_id": "UNITAR",
+  "name": "United Nations Institute for Training and Research",
+  "established": {
+    "$date": {
+      "$numberLong": "-191203200000"
+    }
+  }
+},{
+  "_id": "UNMIH",
+  "name": "United Nations Mission in Haiti",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "748742400000"
+    }
+  }
+},{
+  "_id": "UNMOGIP",
+  "name": "United Nations Military Observer Group in India and Pakistan",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "-674870400000"
+    }
+  }
+},{
+  "_id": "UNMOT",
+  "name": "United Nations Mission of Observers in Tajikistan",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "787536000000"
+    }
+  }
+},{
+  "_id": "UNOMIG",
+  "name": "United Nations Observer Mission in Georgia",
+  "city_id": "90ff94"
+},{
+  "_id": "UNOMIL",
+  "name": "United Nations Observer Mission in Liberia",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "748656000000"
+    }
+  }
+},{
+  "_id": "UNPREDEP",
+  "name": "United Nations Preventive Deployment Force",
+  "established": {
+    "$date": {
+      "$numberLong": "796608000000"
+    }
+  }
+},{
+  "_id": "UNPROFOR",
+  "name": "United Nations Protection Force",
+  "city_id": "90ff94",
+  "established": {
+    "$date": {
+      "$numberLong": "699235200000"
+    }
+  }
+},{
+  "_id": "UNRWA",
+  "name": "United Nations Relief and Works Agency for Palestine Refugees in the Near East",
+  "city_id": "92ebd7",
+  "established": {
+    "$date": {
+      "$numberLong": "-633225600000"
+    }
+  }
+},{
+  "_id": "UNTSO",
+  "name": "United Nations Truce Supervision Organization",
+  "city_id": "8f5579",
+  "established": {
+    "$date": {
+      "$numberLong": "-683856000000"
+    }
+  }
+},{
+  "_id": "UNU",
+  "name": "United Nations University",
+  "established": {
+    "$date": {
+      "$numberLong": "123984000000"
+    }
+  }
+},{
+  "_id": "UPU",
+  "name": "Universal Postal Union",
+  "city_id": "8ca3c4",
+  "established": {
+    "$date": {
+      "$numberLong": "-3005164800000"
+    }
+  }
+},{
+  "_id": "WADB",
+  "name": "West African Development Bank",
+  "city_id": "90162c",
+  "established": {
+    "$date": {
+      "$numberLong": "122083200000"
+    }
+  }
+},{
+  "_id": "WCL",
+  "name": "World Confederation of Labor",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "-1563235200000"
+    }
+  }
+},{
+  "_id": "WEU",
+  "name": "Western European Union",
+  "city_id": "8d17e2",
+  "established": {
+    "$date": {
+      "$numberLong": "-479433600000"
+    }
+  }
+},{
+  "_id": "WFTU",
+  "name": "World Federation of Trade Unions",
+  "city_id": "91aaca",
+  "established": {
+    "$date": {
+      "$numberLong": "-765158400000"
+    }
+  }
+},{
+  "_id": "WHO",
+  "name": "World Health Organization",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-739929600000"
+    }
+  }
+},{
+  "_id": "WIPO",
+  "name": "World Intellectual Property Organization",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-77932800000"
+    }
+  }
+},{
+  "_id": "WMO",
+  "name": "World Meteorological Organization",
+  "city_id": "8eb004",
+  "established": {
+    "$date": {
+      "$numberLong": "-701395200000"
+    }
+  }
+},{
+  "_id": "WToO",
+  "name": "World Tourism Organization",
+  "city_id": "90343c",
+  "established": {
+    "$date": {
+      "$numberLong": "157852800000"
+    }
+  }
+},{
+  "_id": "WTrO",
+  "name": "World Trade Organization",
+  "established": {
+    "$date": {
+      "$numberLong": "766368000000"
+    }
+  }
+},{
+  "_id": "ZC",
+  "name": "Zangger Committee"
+}]
