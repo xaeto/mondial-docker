@@ -20,13 +20,13 @@ services:
     ports:
       - "7474:7474"
     volumes:
-      - "./data/neo4j_import:/import"
+      - "./data/neo4j_import/neo4j_mondial.json:/var/lib/neo4j/import/mondial.json"
     environment:
       NEO4J_AUTH: neo4j/swordfish
   mongodb:
     image: mongo
     restart: always
-    container_name: mongodb
+    container_name: mongo
     volumes:
       - "./mongo-seed/data:/docker-entrypoint-initdb.d/data"
     ports:
@@ -34,14 +34,17 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: mondial
       MONGO_INITDB_ROOT_PASSWORD: swordfish
-  mongoclient:
-    image: mongoclient/mongoclient:latest
-    container_name: mongoclient
-    hostname: mongoclient
-    depends_on:
-      - mongodb
+  mongo-express:
+    image: mongo-express
+    container_name: mexpress
     ports:
-      - 3300:3000
+      - "8081:8081"
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=mondial
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=swordfish
+      - ME_CONFIG_MONGODB_SERVER=mongo
+      - ME_CONFIG_BASICAUTH_USERNAME=mondial
+      - ME_CONFIG_BASICAUTH_PASSWORD=swordfish
   mongo-seed:
     build: ./mongo-seed
     depends_on: 
