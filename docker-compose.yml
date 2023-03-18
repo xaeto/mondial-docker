@@ -34,9 +34,18 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: mondial
       MONGO_INITDB_ROOT_PASSWORD: swordfish
+<<<<<<< HEAD
   mongo-express:
     image: mongo-express
     container_name: mexpress
+=======
+  mongoclient:
+    image: mongoclient/mongoclient:latest
+    container_name: mongoclient
+    hostname: mongoclient
+    depends_on:
+      - mongodb
+>>>>>>> refs/remotes/origin/main
     ports:
       - "8081:8081"
     environment:
