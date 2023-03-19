@@ -3,7 +3,7 @@ version: '3.8'
 
 services:
   mariadb:
-    image: mariadb
+    image: mariadb:10.6.12
     restart: always
     container_name: mariadb
     ports:
@@ -14,7 +14,7 @@ services:
       MARIADB_ROOT_: mondial
       MARIADB_ROOT_PASSWORD: swordfish
   neo4j:
-    image: neo4j
+    image: neo4j:5.3.0
     container_name: neo4j
     restart: always
     ports:
