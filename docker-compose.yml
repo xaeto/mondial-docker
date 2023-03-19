@@ -11,8 +11,15 @@ services:
     volumes:
       - "./data/mariadb_mondial.sql:/docker-entrypoint-initdb.d/1.sql"
     environment:
-      MARIADB_ROOT_: mondial
+      MARIADB_ROOT_USERNAME: mondial
       MARIADB_ROOT_PASSWORD: swordfish
+  mariadb_frontend:
+    image: phpmyadmin
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      - PMA_ARBITRARY=1
   neo4j:
     image: neo4j:5.3.0
     container_name: neo4j
