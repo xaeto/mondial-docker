@@ -29,9 +29,14 @@ services:
       - "7473:7473"
       - "7687:7687"
     volumes:
-      - "./neo4j-seed/neo4j_import.sh:/docker-entrypoint-initdb.d/init.sh"
+      - "./neo4j-seed/data:/var/lib/neo4j/import"
     environment:
       NEO4J_AUTH: neo4j/swordfish
+  neo4j-seed:
+    container_name: neo4j-seed
+    build: ./neo4j-seed
+    depends_on: 
+      - neo4j
   mongodb:
     image: mongo:6.0.3
     restart: always
