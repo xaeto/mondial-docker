@@ -1,9 +1,15 @@
-# Requirements
-[docker-compose](https://docs.docker.com/compose/install/)
-
 # mondial-docker
 Fully configured docker-compose for using mariadb, mongodb and neo4j with the Mondial dataset.
 
+# Requirements
+[docker-compose](https://docs.docker.com/compose/install/)
+
+# Setting it up
+```bash
+git clone https://github.com/xaeto/mondial-docker
+cd mondial-docker
+docker-compose up -d
+```
 # Mariadb
 ```bash
 User: root
