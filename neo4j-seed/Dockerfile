@@ -1,6 +1,5 @@
-FROM neo4j/neo4j-admin
+FROM neo4j:5.3.0
 
-COPY ./data/neo4j_mondial.csv ./mondial.csv
+ENV NEO4J_AUTH=neo4j/swordfish
 
-# bin/neo4j-admin database import full --database=neo4j --nodes=import/actors8b.csv neo4j
-ENTRYPOINT ["neo4j-admin", "database", "import", "full", "--multiline-fields=true", "--nodes=mondial.csv", "neo4j"]
+EXPOSE 7474 7473 7687

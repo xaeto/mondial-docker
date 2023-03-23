@@ -8,6 +8,7 @@ services:
     container_name: mariadb
     ports:
       - "3360:3360"
+      - "3306:3306"
     volumes:
       - "./data/mariadb_mondial.sql:/docker-entrypoint-initdb.d/1.sql"
     environment:
@@ -21,26 +22,25 @@ services:
     environment:
       - PMA_ARBITRARY=1
   neo4j:
-    image: neo4j:5.3.0
+    build: ./neo4j-seed
     container_name: neo4j
-    restart: always
     ports:
       - "7474:7474"
       - "7473:7473"
       - "7687:7687"
-    volumes:
-      - "./neo4j-seed/data:/var/lib/neo4j/import"
     environment:
-      NEO4J_AUTH: neo4j/swordfish
-  neo4j-seed:
-    container_name: neo4j-seed
-    build: ./neo4j-seed
-    depends_on: 
-      - neo4j
+      - NEO4J_AUTH=neo4j/swordfish
+      - NEO4J_ACCEPT_LICENSE_AGREEMENT=yes
+      - NEO4J_PLUGINS=["apoc"]
+      - NEO4J_dbms_security_procedures_allowlist=apoc.*
+      - NEO4J_dbms_security_procedures_unrestricted=apoc.*
   mongodb:
     image: mongo:6.0.3
     restart: always
     container_name: mongo
+    environment:
+      NEO4J_AUTH: neo4j/swordfish
+      NEO4J_HOST: neo4j
     volumes:
       - "./mongo-seed/data:/docker-entrypoint-initdb.d/data"
     ports:
